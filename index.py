@@ -1,5 +1,5 @@
 import discord #모듈 불러옴
-token = "ODExNjQ5NjM1OTU3MzQyMjk4.YC1RoA.XYj4MbNP7A4Bv9b2gGpjutbq_FQ" #토큰설정하기
+token = "Token" #토큰설정하기
 client = discord.Client()  #client 설정
 
 @client.event
